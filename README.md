@@ -155,6 +155,14 @@ methane-hydrogen-combustion/
 
 ---
 
+# 📄 Research Paper
+
+The complete IEEE-format research paper for this project is available here:
+
+[View Paper](paper/Effect_of_Hydrogen_Enrichment_on_Laminar_Flame_Speed_and_Adiabatic_Flame_Temperature_of_Premixed_Methane_Air_Flames_Using_Cantera.pdf)
+
+---
+
 # 📚 References
 
 Key references used in this project include:
