@@ -29,6 +29,16 @@ using:
 
 ---
 
+# 🖥️ Dashboard Preview
+
+Interactive Streamlit dashboard for combustion analysis and visualization.
+
+<p align="center">
+  <img src="figures/dashboard_preview.png" width="900">
+</p>
+
+---
+
 # ⚙️ Features
 
 - 1D freely propagating flame simulations  

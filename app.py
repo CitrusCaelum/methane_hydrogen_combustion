@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 # ---------------------------------------------------
 
 st.set_page_config(
-    page_title="Methane-Hydrogen Combustion Simulator",
+    page_title="Effect of Hydrogen Enrichment on Laminar Flame Speed and Adiabatic Flame Temperature of Premixed Methane-Air Flames Using Cantera",
     page_icon="🔥",
     layout="wide"
 )
@@ -55,7 +55,7 @@ selected_point = df[
 # TITLE
 # ---------------------------------------------------
 
-st.title("🔥 Hydrogen-Enriched Methane Combustion")
+st.title("🔥 Effect of Hydrogen Enrichment on Laminar Flame Speed and Adiabatic Flame Temperature of Premixed Methane-Air Flames Using Cantera")
 
 st.markdown("""
 Interactive computational combustion study using:
