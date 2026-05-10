@@ -1,4 +1,4 @@
-# 🔥 Effect of Hydrogen Enrichment on Laminar Flame Speed and Adiabatic Flame Temperature of Premixed Methane-Air Flames Using Cantera
+# Effect of Hydrogen Enrichment on Laminar Flame Speed and Adiabatic Flame Temperature of Premixed Methane-Air Flames Using Cantera
 
 This project presents a computational investigation of hydrogen-enriched premixed methane-air combustion using Cantera and Python.
 
