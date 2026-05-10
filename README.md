@@ -29,6 +29,14 @@ using:
 
 ---
 
+# 📄 Research Paper
+
+The complete IEEE-format research paper for this project is available here:
+
+[View Paper](paper/Effect_of_Hydrogen_Enrichment_on_Laminar_Flame_Speed_and_Adiabatic_Flame_Temperature_of_Premixed_Methane_Air_Flames_Using_Cantera.pdf)
+
+---
+
 # 🖥️ Dashboard Preview
 
 Interactive Streamlit dashboard for combustion analysis and visualization.
@@ -152,14 +160,6 @@ methane-hydrogen-combustion/
 │   ├── flame_speed.png
 │   └── flame_temperature.png
 ```
-
----
-
-# 📄 Research Paper
-
-The complete IEEE-format research paper for this project is available here:
-
-[View Paper](paper/Effect_of_Hydrogen_Enrichment_on_Laminar_Flame_Speed_and_Adiabatic_Flame_Temperature_of_Premixed_Methane_Air_Flames_Using_Cantera.pdf)
 
 ---
 
